@@ -1,0 +1,15 @@
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+*.dll
+*.lib
+*.exe
+
+build/*
+deps/*

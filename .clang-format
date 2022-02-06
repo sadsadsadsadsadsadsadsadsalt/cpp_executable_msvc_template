@@ -1,0 +1,16 @@
+# Format Style Options - Created with Clang Power Tools
+---
+BasedOnStyle: Mozilla
+AlignTrailingComments: false
+AllowAllArgumentsOnNextLine: false
+AllowShortEnumsOnASingleLine: false
+AllowShortLambdasOnASingleLine: Inline
+BreakBeforeBraces: Attach
+BreakBeforeTernaryOperators: false
+BreakConstructorInitializers: BeforeColon
+ColumnLimit: 100
+FixNamespaceComments: true
+IndentPPDirectives: BeforeHash
+ReflowComments: false
+...
+
